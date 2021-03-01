@@ -17,7 +17,7 @@ An exceptional employee directory that is implemented through the use of React. 
 *Within the client's terminal they will `git clone` the repository onto their local device or preferred destination
 - Next they will begin to utilize and build and run the application on their desired code editor.
 
-## GitHub Repository Link
+## Important Links
 
 - [User Directory](https://github.com/Astemcode/User-Directory)
 
