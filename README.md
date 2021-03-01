@@ -1,7 +1,7 @@
 # User Directory
 
 ## Description 
-- An exceptional employee directory that is implemented through the use of React. This application allows its users to view their entire employee directory all at once so they're able to access it fairly quickly.
+An exceptional employee directory that is implemented through the use of React. This application allows its users to view their entire employee directory all at once so they're able to access it fairly quickly.
 
 * [Installation](#installation)
 * [Usage](#usage)
