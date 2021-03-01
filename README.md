@@ -33,6 +33,6 @@ Joivre Charles
 - ![GitHub license](https://img.shields.io/badge/license-MIT-blue.svg)
 
 ## Questions
-* Please direct Questions to the following:
+* Please direct questions to the following:
     - [aStemCode](https://github.com/aStemCode)
 
