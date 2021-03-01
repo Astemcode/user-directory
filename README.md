@@ -22,8 +22,8 @@ An exceptional employee directory that is implemented through the use of React. 
 - [User Directory](https://github.com/Astemcode/User-Directory)
 
 ## Contributors
-- Please find the contributors of this project below
-Joivre Charles
+- Please find the contributors of this project below:
+    - Joivre Charles
 
 ## Tests
 - Here is a description of tests that were completed on this project before release.
