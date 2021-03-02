@@ -1,6 +1,6 @@
 import React, { Component } from "react";
-import SearchBar from "../SearchBar";
-import EmployeeTable from "../EmployeeTable";
+import SearchBar from "../SearchBar/searchName";
+import EmployeeTable from "../EmployeeTable/employeeTable";
 import API from "../../utils/API";
 
 class EmployeesTable extends Component {

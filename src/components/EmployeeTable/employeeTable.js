@@ -2,6 +2,7 @@ import React from 'react';
 import './employeeTable.css';
 
 const EmployeeTable = (props) => {
+    console.log(props)
     return (
         <table className='table table-striped table-sortable text-center'>
             <thead>
