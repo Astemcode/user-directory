@@ -3,6 +3,8 @@
 ## Description 
 An exceptional employee directory that is implemented through the use of React. This application allows its users to view their entire employee directory all at once so they're able to access it fairly quickly.
 
+- Here is a deployed link: [User Directory](https://salty-hamlet-69373.herokuapp.com/)
+
 * [Installation](#installation)
 * [Usage](#usage)
 * [Contributing](#contributors)
