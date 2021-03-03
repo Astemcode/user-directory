@@ -27,7 +27,7 @@ const EmployeeTable = (props) => {
             <tbody>
                 {props.state.filteredEmployees.map((employee) => {
                     const { first, last } = employee.name;
-                    const fullName = '${first} ${last}';
+                    const fullName = `${first} ${last}`;
                     const dob = props.formatDate(employee.dob.date);
 
                     return (
@@ -37,7 +37,7 @@ const EmployeeTable = (props) => {
                             </td>
                             <td className='align-middle'>{fullName}</td>
                             <td className='align-middle'>
-                                <a href={'mailto:${employee.email}'}>{employee.email}</a>
+                                <a href={`mailto:${employee.email}`}>{employee.email}</a>
                             </td>
                             <td className='align-middle'>{dob}</td>
                         </tr>
