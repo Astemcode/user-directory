@@ -29,6 +29,12 @@ An exceptional employee directory that is implemented through the use of React. 
 - Here is a description of tests that were completed on this project before release.
 - The webpage was viewed on the github.io page to ensure that it is functional.
 
+1. User Directory
+![Dashboard](assets/Dashboard.png)
+
+2. Filtered Names
+![Filter](assets/filteredJ.png)
+
 ## License Used in this project
 - ![GitHub license](https://img.shields.io/badge/license-MIT-blue.svg)
 
